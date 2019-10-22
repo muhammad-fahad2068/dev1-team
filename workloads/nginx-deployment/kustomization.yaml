@@ -1,2 +1,4 @@
-patchesStrategicMerge:
+bases: 
+  - github.com/Fahad-Tanveer/cluster-admin/base/nginx?ref=master
+patchesStrategicMerge: 
   - nginx-patch.yaml

@@ -1,1 +1,2 @@
-
+patchesStrategicMerge:
+  - nginx-patch.yaml
